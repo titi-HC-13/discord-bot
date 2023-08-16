@@ -299,4 +299,4 @@ client = MyClient(intents = intents)
 intents.message_content = True
 
 
-bot.run('A TOKEN')
+bot.run('OTg1OTY0MDc0OTcyMDkwMzc4.Ghsnnh.5JvlwSrt8DvGofdAYM1Tfm0bzBEDsE_Rs6Lkcc')
